@@ -1,0 +1,22 @@
+header {
+  background-color: rgb(58, 54, 54);
+  color: rgb(248, 195, 195);
+  text-align: center;
+  padding: 25px 0;
+  margin-bottom: 25px;
+}
+
+main {
+  background-color: rgb(221, 210, 195);
+  width: 600px;
+  padding: 28px;
+  border: solid 5px red;
+}
+
+footer {
+  background-color: rgb(59, 47, 47);
+  color: rgb(205, 223, 176);
+  text-align: center;
+  padding: 25px 0;
+  margin-top: 25px;
+}
